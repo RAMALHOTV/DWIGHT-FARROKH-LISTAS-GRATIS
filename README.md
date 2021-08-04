@@ -13,7 +13,7 @@
 <thumbnail>https://is3-ssl.mzstatic.com/image/thumb/Purple128/v4/79/7a/fa/797afae4-dd72-b2d8-3ac8-ad10ce3f2e5e/AppIcon-85-220-0-0-0-0-4-0-0-0-2x-sRGB-0-0-0.png/1200x630bb.png</thumbnail>
 ]]></listrepeat>
 <expres>#EXTINF:.*,(.*?)\n.*(http.*tv)</expres>
-<page>https://raw.githubusercontent.com/RAMALHOTV/VIP3/main/README.md</page>
+<page>https://pastebr.xyz/raw/y2cMpCZZkA</page>
 <referer>google.com</referer>
 <x-forward></x-forward>
 <agent>VLC/3.0.0</agent>
